@@ -45,7 +45,6 @@ DataBootcamp/
 ├── reports/        # Relatórios e insights
 └── requirements.txt
 
-
 ---
 
 ## 📊 Tipos de análises desenvolvidas
