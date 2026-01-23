@@ -32,6 +32,7 @@ Este repositório tem como objetivo:
 ---
 
 ## 📂 Estrutura do repositório
+
 DataBootcamp/
 ├── README.md
 ├── .gitignore
@@ -67,6 +68,7 @@ DataBootcamp/
 ## 📌 Status do projeto
 🟢 Em desenvolvimento — novas análises serão adicionadas continuamente.
 
+---
 
 ## 🚀 Próximos passos planejados
 - Adicionar novos datasets de processos
